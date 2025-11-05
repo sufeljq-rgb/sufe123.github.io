@@ -11,4 +11,4 @@ My research focuses on development economics and labor economics. My work has ap
 
 [Email me] <mailto:liujingqi@163.sufe.edu.cn>
 
-You can find my CV here: [CV](../assets/CV.pdf). 
+You can find my CV here: [CV](https://github.com/sufeljq-rgb/sufe123.github.io/blob/master/assets/CV.pdf). 
